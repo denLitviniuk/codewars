@@ -1,0 +1,9 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(¹§ÇÍýÿÿÿÿ
+>
+java:S1643"Use a StringBuilder instead.(ÛÊ¸Ðüÿÿÿÿ8õ°ýÆœ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‚”¡üÿÿÿÿ
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÌÜŒ¨8É­ùÆœ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ü®ŸÒüÿÿÿÿ8ç­ùÆœ0

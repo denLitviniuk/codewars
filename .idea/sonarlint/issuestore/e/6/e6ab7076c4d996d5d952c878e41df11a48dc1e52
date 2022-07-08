@@ -1,0 +1,19 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(²¦Ûö8³ÿÆœ0
+9
+java:S1643"Use a StringBuilder instead.(ê©µî8µÿÆœ0
+8
+java:S1643"Use a StringBuilder instead.(º˜ÇM8¶ÿÆœ0
+9
+java:S1643"Use a StringBuilder instead.(ê©µî8¸ÿÆœ0
+>
+java:S1643"Use a StringBuilder instead.(Çéş¼ûÿÿÿÿ8¹ÿÆœ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙºÛš
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜¦åQ8ƒ‘Æœ0
+\
+java:S1854*":Remove this useless assignment to local variable "letter".(¹¦µ—øÿÿÿÿ8˜ƒ‘Æœ0
+M
+java:S1481*"+Remove this unused "letter" local variable.(¹¦µ—øÿÿÿÿ8›ƒ‘Æœ0
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ìè ›
